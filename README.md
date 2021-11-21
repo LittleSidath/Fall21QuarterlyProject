@@ -1,12 +1,12 @@
-# Fall21QuaterlyProject
+#Fall21QuaterlyProject
 
 #include <Keypad.h>
 #include <Servo.h>
 #include <Wire.h>
 #include "U8x8lib.h"
 #include "Wire.h"
-Servo myServo;
 
+Servo myServo;
 const int Hall_Sensor = 8;
 const int buzzerPin=4;
 const int SERVO_PIN = 10;
