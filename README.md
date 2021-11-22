@@ -1,1 +1,0 @@
-#Fall21QuaterlyProject
